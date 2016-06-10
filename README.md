@@ -2,6 +2,8 @@
 
 Simulate the universal gravity with [Unity](https://unity3d.com)
 
+![screenshot](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/screenshot.png)
+
 ## Features
 
 - One big meteorite and many small others
