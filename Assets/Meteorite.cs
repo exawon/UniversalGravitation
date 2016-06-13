@@ -7,7 +7,7 @@ using System.Collections.Generic;
 public class Meteorite : MonoBehaviour
 {
 	Rigidbody _rigidbody;
-	public new Rigidbody rigidbody
+	public Rigidbody rigidbody
 	{
 		get
 		{
