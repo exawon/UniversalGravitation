@@ -1,4 +1,4 @@
-# UniversalGravitation
+# Universal Gravitation
 Elementary implementation of the fomula below with [Unity](https://unity3d.com):  
 ![fomula](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/fomula.png)  
 ![screenshot](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/screenshot.png)  
