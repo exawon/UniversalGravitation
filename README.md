@@ -4,7 +4,7 @@ Implementation of the fomula below with [Unity](https://unity3d.com):
 ![fomula](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/fomula.png)  
 ![screenshot](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/screenshot.png)  
 
-[Live demo](https://build.cloud.unity3d.com/share/b1ENyyNX4Z/webgl/) is available via WebGL.  
+[WebGL demo](https://build.cloud.unity3d.com/share/b1ENyyNX4Z/webgl/) is available.  
 
 ## Features
 
