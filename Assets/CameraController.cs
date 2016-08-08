@@ -66,5 +66,10 @@ public class CameraController : MonoBehaviour
 
 		transform.rotation *= autoRotation * mouseRotation;
 		transform.position = target.position - (transform.forward * distanceFromTarget);
+
+		if (Input.GetKey(KeyCode.Escape))
+		{
+			Application.Quit();
+		}
 	}
 }
