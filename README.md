@@ -3,7 +3,7 @@ Elementary implementation of the fomula below with [Unity](https://unity3d.com):
 ![fomula](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/fomula.png)  
 ![screenshot](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/screenshot.png)  
 
-[WebGL demo](https://build.cloud.unity3d.com/share/WJK-vWZSK-/webgl/) is available.  
+[WebGL demo](https://developer.cloud.unity3d.com/share/bkq2u5fUzf/webgl/) is available.  
 
 ## Features
 - One big meteorite and many small others
