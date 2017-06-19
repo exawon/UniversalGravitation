@@ -4,6 +4,7 @@ Elementary implementation of the fomula below with [Unity](https://unity3d.com):
 ![screenshot](https://raw.githubusercontent.com/exawon/UniversalGravitation/master/screenshot.png)  
 
 [WebGL demo](https://developer.cloud.unity3d.com/share/bkq2u5fUzf/webgl/) is available.  
+And you can compare with [this video](https://www.youtube.com/watch?v=0jHsq36_NTU).
 
 ## Features
 - One big meteorite and many small others
